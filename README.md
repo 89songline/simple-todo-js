@@ -1,2 +1,2 @@
-# simple-todo-js
+# modern-javascript
 Created with CodeSandbox
